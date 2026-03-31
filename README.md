@@ -3,7 +3,7 @@
 ## Overview
 This project evaluates whether observational methods can approximate experimental results when measuring the effectiveness of digital advertising.
 
-Using a simulated Facebook ad campaign dataset with 2 million users, I compare:
+Using a simulated ad campaign dataset with 2 million users, I compare:
 - Experimental lift from a randomized controlled trial (RCT)
 - Naive observational estimates
 - Regression adjustment
@@ -26,7 +26,7 @@ https://drive.google.com/uc?export=download&id=11XMEbxqF5X5_Hk2V82rT5cYz1PBz_qZn
 
 After downloading, place the file in the same directory as the notebook:
 
-AdVantage.csv
+advertising_data.csv
 
 ## Methodology
 The analysis follows a progression from experimental ground truth to observational estimation:
