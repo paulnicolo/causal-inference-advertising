@@ -49,9 +49,9 @@ Each method is evaluated relative to the experimental benchmark.
 Observational methods consistently overestimate the impact of advertising.
 
 ## Business Implications
-If all eligible users had been targeted, the campaign would have generated approximately 92,462 incremental conversions, compared to 46,301 under the RCT design.
+If all eligible users had been targeted, the campaign would have generated approximately 92,462 incremental conversions, compared to 46,302 under the RCT design.
 
-However, using the Double ML estimate would have projected 197,780 incremental conversions, overstating the true impact by more than 100,000 conversions when scaled to the full population.
+However, using the Double ML estimate would have projected 197,935 incremental conversions, overstating the true impact by more than 105,000 conversions when scaled to the full population.
 
 This highlights a tradeoff between short term performance and measurement quality. Running an experiment sacrifices some conversions in the short term but provides a reliable estimate of causal lift. Targeting all users maximizes immediate conversions but risks overstating effectiveness and distorting future decisions.
 
