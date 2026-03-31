@@ -68,3 +68,7 @@ In practice, the value of experimentation depends on how heavily measurement inf
 Observational methods can approximate experimental results, but even advanced approaches like Double ML can meaningfully overstate impact.
 
 Accurate measurement is critical when results are used to guide future decisions.
+
+## Data Source
+
+This project is based on an academic case study used for educational purposes. The dataset and structure are adapted from that case, but all analysis and interpretations are my own.
